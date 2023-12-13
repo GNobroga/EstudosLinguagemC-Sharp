@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_8Heranca_Tipos.Conta">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAA=</HashCode>
+      <FileName>Conta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.ContaPoupanca">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContaPoupanca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.A">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.B">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.C">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.D">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.E">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.F">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.Forma">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Forma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.Quadrado">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAA=</HashCode>
+      <FileName>Quadrado.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

@@ -1,0 +1,45 @@
+﻿
+int[,] a;
+a = new int[2, 2];
+a = new int[2, 2] { { 0, 1 }, { 3, 4 } };
+
+    int[,] b = new int[2, 2] { { 0, 1 }, { 3, 4 } };
+int[,] b1 = { { 0, 1 }, { 3, 4 } };
+
+
+int[,] c = new int[3, 3] { { 0, 1, 2 }, { 4, 5, 6 }, { 7, 8, 9 } };
+int[,] d = new int[3, 4] { { 0, 1, 2, 3} , {4, 5, 6, 7} , { 8, 9, 10, 11} };
+
+int[,] e = { 
+              { 0, 1, 2, 3 },  //linha 0
+              { 4, 5, 6, 7 },  //linha 1
+              { 8, 9, 10, 11 } //linha 2
+           };
+
+
+int[,] x = new int[2, 3] { { 1, 2, 3 }, { 3, 4, 5 } };
+
+int[,] y = new int[3, 2]{
+                           {1, 2},
+                           {3, 4},
+                           {5, 6}
+                        };
+
+int[,] z = {
+              {1, 2},
+              {3, 4},
+              {5, 6}
+           };
+
+
+string[] ford = { "Mustang", "F-150", "Explorer" };
+string[] vw = { "Gol", "T-Cross", "Amarok" };
+string[] toyota = { "Corolla", "Camry", "Rav3" };
+
+string[,] modelos = {
+                      { "Mustang", "F-150", "Explorer" },
+                      { "Gol", "T-Cross", "Amarok" },
+                      { "Corolla", "Camry", "Rav3" }
+                    };
+
+Console.ReadKey();
